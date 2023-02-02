@@ -6,8 +6,8 @@
 
 ### Submissions
 
-* Link of Individual Repository - 
-* Link of Deployed application - 
+* Link of Individual Repository - https://git.cs.dal.ca/dkdave/tutorial2
+* Link of Deployed application - https://fabulous-figolla-eb80ec.netlify.app/
 * Link of Group's project repository - https://git.cs.dal.ca/vaishwi/group_7_csci5709
 * Link of personal branch in Group's Repository - https://git.cs.dal.ca/vaishwi/group_7_csci5709/-/tree/deep_B00931783
 * Link of github repository - 
